@@ -1,0 +1,5 @@
+/* EXEMPLO DE "TRATAMENTO DE EXCECOES" COM UM THROW ONDE A EXCECAO NAO EH TRATADA */
+
+public class ExemploThrowDois {
+
+}
