@@ -50,7 +50,8 @@ Este repositório visa consolidar:
 - Operadores aritméticos, lógicos e condicionais;
 - Estruturas de repetição e controle;
 - Aplicação de lógica em problemas práticos;
-- Cada pasta representa um conjunto de códigos com foco em diferentes aspectos da linguagem;
+
+Cada pasta representa um conjunto de códigos com foco em diferentes aspectos da linguagem;
 
 ---
 
